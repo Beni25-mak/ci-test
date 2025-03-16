@@ -41,3 +41,6 @@ post {
 
 //merci beaucoup pour votre soutiens cela me fait tellement plaisir
 //bonne journée
+// Je suis très ravie de connaitre tes nouvelles
+// je suis une formation sur Machine Learning
+// C'est Guillaum le formateur
