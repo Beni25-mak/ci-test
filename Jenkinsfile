@@ -44,4 +44,3 @@ post {
 // Je suis très ravie de connaitre tes nouvelles
 // je suis une formation sur Machine Learning
 // C'est Guillaum le formateur
-// Je tellement content de suivre cette formation

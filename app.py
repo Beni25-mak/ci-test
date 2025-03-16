@@ -9,5 +9,3 @@ def main():
 # Bonjour Beni il est le matin, tu ne vas pas dormir
 # J'étais dans un entretien avec les blanc
 # Merci pour avoir poser des questions suivantes
-# Je suis tres fatigue, mais cela me donne encore de la force
-# pour continuer à étudier et decouvrir de nouvelles compétences
