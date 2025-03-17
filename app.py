@@ -9,4 +9,5 @@ def main():
 # Bonjour Beni il est le matin, tu ne vas pas dormir
 # J'étais dans un entretien avec les blanc
 # Merci pour avoir poser des questions suivantes
-# thank you very much
+# Merci seigneur jesus pour les orientations.
+# merci papa
