@@ -44,3 +44,5 @@ post {
 // Je suis très ravie de connaitre tes nouvelles
 // je suis une formation sur Machine Learning
 // C'est Guillaum le formateur
+// Seigneur vient à mon secours
+// J'ai que vous comme source intarissable
