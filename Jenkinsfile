@@ -32,7 +32,7 @@ pipeline {
 }
 post { 
     failure { 
-        emailext subject: "Échec du build Jenkins",
+        emailext subject: "Echec du build Jenkins",
         body: "Échec du pipeline : ${env.BUILD_URL}", 
         to: 'benimakumbu24@gmail.com' 
         } 
